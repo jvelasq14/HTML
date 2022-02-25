@@ -1,0 +1,28 @@
+h1{
+	color: white;
+}
+ol{
+	color: white;
+}
+h1{
+	background-image: url("text.jpeg");
+}
+body{
+	background-image: url("restaurantes.jpg");
+	background-size: 130rem;
+	opacity: 8;
+}
+h3{
+	color: white;
+
+}
+li{
+	color: white;
+
+}
+tr{
+	color: white;
+}
+th{
+	color: white;
+}
