@@ -19,9 +19,7 @@
 		<ol>Mixta -------------- 15000</ol>
 		<ol>De pollo ------------- 10000</ol>
 
-	</ul>
-
-	<ul>
+	
 		
 		<li>Perros calientes</li>
 		<br>
@@ -31,8 +29,7 @@
 		<ol>Suizo --------- 9000</ol>
 		<ol>De pollo --------- 7000</ol>
 		<ol>Mixto --------- 12000</ol>
-	</ul>
-	<ul>
+	
 		 <li>Salchipapas</li>
 		 <br>
 		 <ol>Sencilla ---------- 9000</ol>
