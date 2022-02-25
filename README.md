@@ -5,7 +5,8 @@
 	 <center><h1>Comidas Rapidas el York</h1></center>
 	<link rel="stylesheet" type="text/css" href="estilos.css">
 </head>
-<body bgcolor="skyblue">
+<body>
+	<div>
 <section>
 	<h3>Menu</h3>
 		<center><img src="p1.jpeg" width="500px" height="300px" align="right"></center>
@@ -43,6 +44,7 @@
 	</ul>
 
 </section>
+	</div>
 <hr>
 <aside> <h3> Pedido</h3> </aside>
 <hr>
